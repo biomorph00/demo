@@ -29,7 +29,7 @@
     { "id": 27, "title": "Post 2x" },
     { "id": 28, "title": "Post 3x" },
     { "id": 29, "title": "Post 1x" },
-    { "id": 30, "title": "Post 2x" }
+    { "id": 30, "title": "Post 3x" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
